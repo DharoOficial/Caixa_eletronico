@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y+G4NB26I6T6IXX8Ksgs7UTbkC52mO+ZAzDH/8eNHt4Jj+zdQWsI8BKFS87nU7pr4lSGUxCGFADPhaMHVHgfFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mercatudo\\source\\repos\\Caixa Eletrônico\\Caixa Eletrônico\\Caixa Eletrônico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mercatudo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
